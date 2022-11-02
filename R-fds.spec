@@ -4,7 +4,7 @@
 #
 Name     : R-fds
 Version  : 1.8
-Release  : 6
+Release  : 7
 URL      : https://cran.r-project.org/src/contrib/fds_1.8.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/fds_1.8.tar.gz
 Summary  : Functional Data Sets
